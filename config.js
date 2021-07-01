@@ -16,4 +16,3 @@ const CONFIG = {
     messDesc: 'Tối nay 7h anh dẫn công chúa đi chơi nhé',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://www.facebook.com/hiep.tran.3304673
-}
